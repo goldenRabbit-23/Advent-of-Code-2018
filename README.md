@@ -12,7 +12,7 @@ Each day lives in its own folder, with:
 
 | Day | Title | Summary |
 |-----|-------|---------|
-| 01  |       |         |
+| 01  | Chronal Calibration | Apply all frequency changes to compute the final frequency, then cycle through the changes repeatedly to find the first frequency reached twice. |
 | 02  |       |         |
 | 03  |       |         |
 | 04  |       |         |
