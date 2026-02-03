@@ -13,7 +13,7 @@ Each day lives in its own folder, with:
 | Day | Title | Summary |
 |-----|-------|---------|
 | 01  | Chronal Calibration | Apply all frequency changes to compute the final frequency, then cycle through the changes repeatedly to find the first frequency reached twice. |
-| 02  |       |         |
+| 02  | Inventory Management System | Compute the checksum by counting box IDs that contain exactly two or three of any letter, then find the two box IDs that differ by exactly one character. |
 | 03  |       |         |
 | 04  |       |         |
 | 05  |       |         |
