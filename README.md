@@ -17,7 +17,7 @@ Each day lives in its own folder, with:
 | 03  | No Matter How You Slice It | Count how many squares are covered by two or more claims, and find the only claim that doesn't overlap any others. |
 | 04  | Repose Record | Find the guard who sleeps the most and the minute they are most frequently asleep, then find the guard who is most frequently asleep on the same minute. |
 | 05  | Alchemical Reduction | Find how many units remain after fully reacting the polymer, then determine the shortest possible polymer by removing all units of exactly one type and reacting again. |
-| 06  |       |         |
+| 06  | Chronal Coordinates | Compute the size of the largest finite area, then the size of the region containing all locations whose total distance to all coordinates is less than 10000. |
 | 07  |       |         |
 | 08  |       |         |
 | 09  |       |         |
