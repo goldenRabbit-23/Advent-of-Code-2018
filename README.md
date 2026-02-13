@@ -18,7 +18,7 @@ Each day lives in its own folder, with:
 | 04  | Repose Record | Find the guard who sleeps the most and the minute they are most frequently asleep, then find the guard who is most frequently asleep on the same minute. |
 | 05  | Alchemical Reduction | Find how many units remain after fully reacting the polymer, then determine the shortest possible polymer by removing all units of exactly one type and reacting again. |
 | 06  | Chronal Coordinates | Compute the size of the largest finite area, then the size of the region containing all locations whose total distance to all coordinates is less than 10000. |
-| 07  |       |         |
+| 07  | The Sum of Its Parts | Determine the correct order of the steps and calculate the total time required to complete them using five workers and a base duration of 60 seconds per step. |
 | 08  |       |         |
 | 09  |       |         |
 | 10  |       |         |
