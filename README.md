@@ -19,7 +19,7 @@ Each day lives in its own folder, with:
 | 05  | Alchemical Reduction | Find how many units remain after fully reacting the polymer, then determine the shortest possible polymer by removing all units of exactly one type and reacting again. |
 | 06  | Chronal Coordinates | Compute the size of the largest finite area, then the size of the region containing all locations whose total distance to all coordinates is less than 10000. |
 | 07  | The Sum of Its Parts | Determine the correct order of the steps and calculate the total time required to complete them using five workers and a base duration of 60 seconds per step. |
-| 08  |       |         |
+| 08  | Memory Maneuver | Compute the sum of all metadata entries, then determine the root node's value using the rules based on its children and metadata. |
 | 09  |       |         |
 | 10  |       |         |
 | 11  |       |         |
