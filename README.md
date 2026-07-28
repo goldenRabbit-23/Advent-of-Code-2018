@@ -21,7 +21,7 @@ Each day lives in its own folder, with:
 | 07  | The Sum of Its Parts | Determine the correct order of the steps and calculate the total time required to complete them using five workers and a base duration of 60 seconds per step. |
 | 08  | Memory Maneuver | Compute the sum of all metadata entries, then determine the root node's value using the rules based on its children and metadata. |
 | 09  | Marble Mania | Compute the highest score after the last marble is placed in the circle as the elves take turns playing. |
-| 10  |       |         |
+| 10  | The Stars Align | Simulate the moving points until they align to reveal a message, then determine how many seconds it takes for the message to appear. |
 | 11  |       |         |
 | 12  |       |         |
 | 13  |       |         |
@@ -37,4 +37,3 @@ Each day lives in its own folder, with:
 | 23  |       |         |
 | 24  |       |         |
 | 25  |       |         |
-
