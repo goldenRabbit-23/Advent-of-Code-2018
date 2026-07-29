@@ -24,7 +24,7 @@ Each day lives in its own folder, with:
 | 10  | The Stars Align | Simulate the moving points until they align to reveal a message, then determine how many seconds it takes for the message to appear. |
 | 11  | Chronal Charge | Find the 3×3 square with the greatest total power, then find the highest-power square of any size. |
 | 12  | Subterranean Sustainability | Simulate plant growth and sum the numbers of pots containing plants after 20 generations, then calculate the sum after 50 billion generations. |
-| 13  |       |         |
+| 13  | Mine Cart Madness | Simulate carts moving along the tracks to locate the first collision, then remove crashed carts until only one remains. |
 | 14  |       |         |
 | 15  |       |         |
 | 16  |       |         |
