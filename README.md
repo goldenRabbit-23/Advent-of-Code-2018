@@ -26,7 +26,7 @@ Each day lives in its own folder, with:
 | 12  | Subterranean Sustainability | Simulate plant growth and sum the numbers of pots containing plants after 20 generations, then calculate the sum after 50 billion generations. |
 | 13  | Mine Cart Madness | Simulate carts moving along the tracks to locate the first collision, then remove crashed carts until only one remains. |
 | 14  | Chocolate Charts | Simulate the elves creating recipe scores to find the ten scores after a given number of recipes, then determine how many recipes appear before a target sequence. |
-| 15  |       |         |
+| 15  | Beverage Bandits | Simulate reading-order combat between Elves and Goblins to calculate the battle outcome, then find the minimum Elf attack power needed to win without any Elf casualties. |
 | 16  |       |         |
 | 17  |       |         |
 | 18  |       |         |
