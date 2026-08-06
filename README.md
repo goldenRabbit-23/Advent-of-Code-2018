@@ -28,7 +28,7 @@ Each day lives in its own folder, with:
 | 14  | Chocolate Charts | Simulate the elves creating recipe scores to find the ten scores after a given number of recipes, then determine how many recipes appear before a target sequence. |
 | 15  | Beverage Bandits | Simulate reading-order combat between Elves and Goblins to calculate the battle outcome, then find the minimum Elf attack power needed to win without any Elf casualties. |
 | 16  | Chronal Classification | Count the samples that behave like three or more operations, then map each opcode to its correct operation and run the test program. |
-| 17  |       |         |
+| 17  | Reservoir Research | Simulate water flowing from the spring through the clay scan to count all reachable water, then count only the water retained in enclosed basins. |
 | 18  |       |         |
 | 19  |       |         |
 | 20  |       |         |
